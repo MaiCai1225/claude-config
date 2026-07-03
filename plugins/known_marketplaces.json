@@ -1,0 +1,10 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\Blackmai\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-06-18T14:43:45.117Z"
+  }
+}
